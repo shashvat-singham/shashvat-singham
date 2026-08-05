@@ -72,13 +72,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shashvat-singham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shashvat-singham&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashvat-singham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
+<!-- Streak card uses the current maintained domain (the old herokuapp.com host is dead). -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashvat-singham&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=shashvat-singham&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+<sub align="center">Stat cards are rendered by free third-party services and may occasionally show an "API issue" during their outages — they reappear automatically once the service recovers.</sub>
 
 ---
 
