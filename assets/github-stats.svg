@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="210" viewBox="0 0 495 210" role="img" aria-label="shashvat&apos;s GitHub Stats">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .value { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .icon  { fill: #bf91f3; }
+    .fade  { opacity: 0; animation: fadein 0.5s ease-in-out forwards; }
+    @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .fade { opacity: 1; animation: none; }
+    }
+  </style>
+  <rect width="494" height="209" x="0.5" y="0.5" rx="6" fill="#1a1b27" stroke="#1a1b27"/>
+  <text class="title" x="25" y="35">shashvat&apos;s GitHub Stats</text>
+  
+      <g class="fade" transform="translate(25, 62)" style="animation-delay: 150ms">
+        <text class="label" x="0" y="0">Total Stars Earned:</text>
+        <text class="value" x="330" y="0" text-anchor="end">6</text>
+      </g>
+      <g class="fade" transform="translate(25, 87)" style="animation-delay: 250ms">
+        <text class="label" x="0" y="0">Total Commits:</text>
+        <text class="value" x="330" y="0" text-anchor="end">961</text>
+      </g>
+      <g class="fade" transform="translate(25, 112)" style="animation-delay: 350ms">
+        <text class="label" x="0" y="0">Total PRs:</text>
+        <text class="value" x="330" y="0" text-anchor="end">1</text>
+      </g>
+      <g class="fade" transform="translate(25, 137)" style="animation-delay: 450ms">
+        <text class="label" x="0" y="0">Total Issues:</text>
+        <text class="value" x="330" y="0" text-anchor="end">0</text>
+      </g>
+      <g class="fade" transform="translate(25, 162)" style="animation-delay: 550ms">
+        <text class="label" x="0" y="0">Contributed to:</text>
+        <text class="value" x="330" y="0" text-anchor="end">0</text>
+      </g>
+      <g class="fade" transform="translate(25, 187)" style="animation-delay: 650ms">
+        <text class="label" x="0" y="0">Followers:</text>
+        <text class="value" x="330" y="0" text-anchor="end">1</text>
+      </g>
+</svg>
