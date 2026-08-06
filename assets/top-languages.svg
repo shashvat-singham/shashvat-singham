@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="210" viewBox="0 0 300 210" role="img" aria-label="Most Used Languages">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .value { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .icon  { fill: #bf91f3; }
+    .fade  { opacity: 0; animation: fadein 0.5s ease-in-out forwards; }
+    @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .fade { opacity: 1; animation: none; }
+    }
+  
+    .label { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+  </style>
+  <rect width="299" height="209" x="0.5" y="0.5" rx="6" fill="#1a1b27" stroke="#1a1b27"/>
+  <text class="title" x="25" y="35">Most Used Languages</text>
+  <g transform="translate(25, 77.5)">
+    <mask id="bar"><rect x="0" y="0" width="250" height="8" rx="4" fill="#fff"/></mask>
+    <g mask="url(#bar)"><rect x="0.00" y="0" width="187.87" height="8" fill="#3572A5"/><rect x="187.87" y="0" width="42.53" height="8" fill="#DA5B0B"/><rect x="230.40" y="0" width="8.78" height="8" fill="#f1e05a"/><rect x="239.18" y="0" width="6.41" height="8" fill="#4F5D95"/><rect x="245.59" y="0" width="1.41" height="8" fill="#e34c26"/><rect x="247.00" y="0" width="1.24" height="8" fill="#3178c6"/><rect x="248.25" y="0" width="0.99" height="8" fill="#555555"/><rect x="249.23" y="0" width="0.77" height="8" fill="#f34b7d"/></g>
+  </g>
+  <g transform="translate(25, 102.5)">
+      <g class="fade" transform="translate(0, 0)" style="animation-delay: 150ms">
+        <circle cx="5" cy="6" r="5" fill="#3572A5"/>
+        <text class="label" x="16" y="10">Python 75.15%</text>
+      </g>
+      <g class="fade" transform="translate(125, 0)" style="animation-delay: 230ms">
+        <circle cx="5" cy="6" r="5" fill="#DA5B0B"/>
+        <text class="label" x="16" y="10">Jupyter Notebook 17.01%</text>
+      </g>
+      <g class="fade" transform="translate(0, 20)" style="animation-delay: 310ms">
+        <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+        <text class="label" x="16" y="10">JavaScript 3.51%</text>
+      </g>
+      <g class="fade" transform="translate(125, 20)" style="animation-delay: 390ms">
+        <circle cx="5" cy="6" r="5" fill="#4F5D95"/>
+        <text class="label" x="16" y="10">PHP 2.56%</text>
+      </g>
+      <g class="fade" transform="translate(0, 40)" style="animation-delay: 470ms">
+        <circle cx="5" cy="6" r="5" fill="#e34c26"/>
+        <text class="label" x="16" y="10">HTML 0.57%</text>
+      </g>
+      <g class="fade" transform="translate(125, 40)" style="animation-delay: 550ms">
+        <circle cx="5" cy="6" r="5" fill="#3178c6"/>
+        <text class="label" x="16" y="10">TypeScript 0.50%</text>
+      </g>
+      <g class="fade" transform="translate(0, 60)" style="animation-delay: 630ms">
+        <circle cx="5" cy="6" r="5" fill="#555555"/>
+        <text class="label" x="16" y="10">C 0.39%</text>
+      </g>
+      <g class="fade" transform="translate(125, 60)" style="animation-delay: 710ms">
+        <circle cx="5" cy="6" r="5" fill="#f34b7d"/>
+        <text class="label" x="16" y="10">C++ 0.31%</text>
+      </g></g>
+</svg>

@@ -71,9 +71,10 @@
 
 ### 📊 GitHub Stats
 
+<!-- Rendered from this repo by .github/workflows/stat-cards.yml, not hotlinked. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shashvat-singham&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashvat-singham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="./assets/github-stats.svg" alt="Total stars, commits, pull requests, issues, repositories contributed to, and followers for shashvat-singham" />
+  <img src="./assets/top-languages.svg" alt="Most used languages across shashvat-singham's repositories" />
 </p>
 
 <!-- Streak card uses the current maintained domain (the old herokuapp.com host is dead). -->
@@ -81,15 +82,12 @@
   <img src="https://streak-stats.demolab.com/?user=shashvat-singham&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<sub align="center">Stat cards are rendered by free third-party services and may occasionally show an "API issue" during their outages — they reappear automatically once the service recovers.</sub>
-
 ---
 
 ### 📫 Connect
 
-<!-- Replace YOUR_LINKEDIN below with your LinkedIn profile handle, then delete this comment. -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/shashvat-singham/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:shashvat@saxecap.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/shashvat-singham"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
