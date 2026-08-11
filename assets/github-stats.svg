@@ -19,15 +19,15 @@
       </g>
       <g class="fade" transform="translate(25, 87)" style="animation-delay: 250ms">
         <text class="label" x="0" y="0">Total Commits:</text>
-        <text class="value" x="330" y="0" text-anchor="end">961</text>
+        <text class="value" x="330" y="0" text-anchor="end">1k</text>
       </g>
       <g class="fade" transform="translate(25, 112)" style="animation-delay: 350ms">
         <text class="label" x="0" y="0">Total PRs:</text>
-        <text class="value" x="330" y="0" text-anchor="end">1</text>
+        <text class="value" x="330" y="0" text-anchor="end">9</text>
       </g>
       <g class="fade" transform="translate(25, 137)" style="animation-delay: 450ms">
         <text class="label" x="0" y="0">Total Issues:</text>
-        <text class="value" x="330" y="0" text-anchor="end">0</text>
+        <text class="value" x="330" y="0" text-anchor="end">5</text>
       </g>
       <g class="fade" transform="translate(25, 162)" style="animation-delay: 550ms">
         <text class="label" x="0" y="0">Contributed to:</text>

@@ -77,9 +77,10 @@
   <img src="./assets/top-languages.svg" alt="Most used languages across shashvat-singham's repositories" />
 </p>
 
-<!-- Streak card uses the current maintained domain (the old herokuapp.com host is dead). -->
+<!-- Also rendered from this repo. Hotlinking the streak card outlived two
+     hosts: herokuapp.com went away, and demolab.com stopped answering. -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shashvat-singham&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="./assets/streak.svg" alt="Contribution streak: total contributions, current streak and longest streak for shashvat-singham" />
 </p>
 
 ---

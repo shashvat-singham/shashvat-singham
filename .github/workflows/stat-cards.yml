@@ -40,7 +40,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg assets/top-languages.svg
+          git add assets/github-stats.svg assets/top-languages.svg assets/streak.svg
           # Nothing to do when the numbers have not moved since the last run.
           if git diff --staged --quiet; then
             echo "Cards unchanged."
