@@ -18,19 +18,19 @@
   <rect width="494" height="194" x="0.5" y="0.5" rx="6" fill="#1a1b27" stroke="#1a1b27"/>
   
     <g class="fade" transform="translate(82.5, 0)" style="animation-delay: 150ms">
-      <text class="streak-num" x="0" y="72" text-anchor="middle">1.1k</text>
+      <text class="streak-num" x="0" y="72" text-anchor="middle">1.2k</text>
       <text class="streak-label" x="0" y="100" text-anchor="middle">Total Contributions</text>
       <text class="streak-sub" x="0" y="122" text-anchor="middle">All time</text>
     </g>
   <g class="fade" transform="translate(247.5, 0)" style="animation-delay: 270ms">
     <circle cx="0" cy="62" r="42" fill="none" stroke="#bf91f3" stroke-width="4"/>
-    <text class="streak-big" x="0" y="72" text-anchor="middle">8</text>
+    <text class="streak-big" x="0" y="72" text-anchor="middle">9</text>
     <text class="streak-label" x="0" y="128" text-anchor="middle">Current Streak</text>
-    <text class="streak-sub" x="0" y="150" text-anchor="middle">5 Aug 2026 - 12 Aug 2026</text>
+    <text class="streak-sub" x="0" y="150" text-anchor="middle">5 Aug 2026 - 13 Aug 2026</text>
   </g>
   
     <g class="fade" transform="translate(412.5, 0)" style="animation-delay: 390ms">
-      <text class="streak-num" x="0" y="72" text-anchor="middle">8</text>
+      <text class="streak-num" x="0" y="72" text-anchor="middle">9</text>
       <text class="streak-label" x="0" y="100" text-anchor="middle">Longest Streak</text>
       <text class="streak-sub" x="0" y="122" text-anchor="middle">Days in a row</text>
     </g>
