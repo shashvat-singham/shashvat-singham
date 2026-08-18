@@ -16,32 +16,32 @@
   <text class="title" x="25" y="35">Most Used Languages</text>
   <g transform="translate(25, 77.5)">
     <mask id="bar"><rect x="0" y="0" width="250" height="8" rx="4" fill="#fff"/></mask>
-    <g mask="url(#bar)"><rect x="0.00" y="0" width="191.70" height="8" fill="#3572A5"/><rect x="191.70" y="0" width="42.29" height="8" fill="#DA5B0B"/><rect x="233.99" y="0" width="6.54" height="8" fill="#4F5D95"/><rect x="240.53" y="0" width="4.28" height="8" fill="#f1e05a"/><rect x="244.81" y="0" width="2.09" height="8" fill="#3178c6"/><rect x="246.90" y="0" width="1.31" height="8" fill="#e34c26"/><rect x="248.21" y="0" width="1.01" height="8" fill="#555555"/><rect x="249.22" y="0" width="0.78" height="8" fill="#f34b7d"/></g>
+    <g mask="url(#bar)"><rect x="0.00" y="0" width="191.47" height="8" fill="#3572A5"/><rect x="191.47" y="0" width="42.20" height="8" fill="#DA5B0B"/><rect x="233.68" y="0" width="6.53" height="8" fill="#4F5D95"/><rect x="240.21" y="0" width="4.27" height="8" fill="#f1e05a"/><rect x="244.48" y="0" width="2.21" height="8" fill="#e34c26"/><rect x="246.69" y="0" width="1.52" height="8" fill="#3178c6"/><rect x="248.21" y="0" width="1.00" height="8" fill="#555555"/><rect x="249.22" y="0" width="0.78" height="8" fill="#f34b7d"/></g>
   </g>
   <g transform="translate(25, 102.5)">
       <g class="fade" transform="translate(0, 0)" style="animation-delay: 150ms">
         <circle cx="5" cy="6" r="5" fill="#3572A5"/>
-        <text class="label" x="16" y="10">Python 76.68%</text>
+        <text class="label" x="16" y="10">Python 76.59%</text>
       </g>
       <g class="fade" transform="translate(125, 0)" style="animation-delay: 230ms">
         <circle cx="5" cy="6" r="5" fill="#DA5B0B"/>
-        <text class="label" x="16" y="10">Jupyter Notebook 16.92%</text>
+        <text class="label" x="16" y="10">Jupyter Notebook 16.88%</text>
       </g>
       <g class="fade" transform="translate(0, 20)" style="animation-delay: 310ms">
         <circle cx="5" cy="6" r="5" fill="#4F5D95"/>
-        <text class="label" x="16" y="10">PHP 2.62%</text>
+        <text class="label" x="16" y="10">PHP 2.61%</text>
       </g>
       <g class="fade" transform="translate(125, 20)" style="animation-delay: 390ms">
         <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
         <text class="label" x="16" y="10">JavaScript 1.71%</text>
       </g>
       <g class="fade" transform="translate(0, 40)" style="animation-delay: 470ms">
-        <circle cx="5" cy="6" r="5" fill="#3178c6"/>
-        <text class="label" x="16" y="10">TypeScript 0.84%</text>
+        <circle cx="5" cy="6" r="5" fill="#e34c26"/>
+        <text class="label" x="16" y="10">HTML 0.89%</text>
       </g>
       <g class="fade" transform="translate(125, 40)" style="animation-delay: 550ms">
-        <circle cx="5" cy="6" r="5" fill="#e34c26"/>
-        <text class="label" x="16" y="10">HTML 0.53%</text>
+        <circle cx="5" cy="6" r="5" fill="#3178c6"/>
+        <text class="label" x="16" y="10">TypeScript 0.61%</text>
       </g>
       <g class="fade" transform="translate(0, 60)" style="animation-delay: 630ms">
         <circle cx="5" cy="6" r="5" fill="#555555"/>
