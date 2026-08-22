@@ -35,6 +35,6 @@
       </g>
       <g class="fade" transform="translate(25, 187)" style="animation-delay: 650ms">
         <text class="label" x="0" y="0">Followers:</text>
-        <text class="value" x="330" y="0" text-anchor="end">2</text>
+        <text class="value" x="330" y="0" text-anchor="end">1</text>
       </g>
 </svg>
