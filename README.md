@@ -3,7 +3,12 @@
 <h3 align="center">Senior AI / ML Engineer · Agentic Systems · Applied Deep Learning</h3>
 
 <p align="center">
+  <a href="https://shashvat-singham.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-shashvat--singham.vercel.app-6366f1?style=flat" alt="Portfolio website of Shashvat Singham" /></a>
   <a href="https://github.com/shashvat-singham"><img src="https://komarev.com/ghpvc/?username=shashvat-singham&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
+</p>
+
+<p align="center">
+  <b>Website:</b> <a href="https://shashvat-singham.vercel.app/">shashvat-singham.vercel.app</a>
 </p>
 
 <p align="center">
@@ -88,6 +93,7 @@
 ### 📫 Connect
 
 <p align="center">
+  <a href="https://shashvat-singham.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shashvat-singham/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:shashvat@saxecap.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/shashvat-singham"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
