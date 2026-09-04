@@ -69,6 +69,16 @@
 
 ---
 
+### 🌱 Open Source
+
+Upstream contributions to projects I use in production:
+
+| Project | Contribution |
+| --- | --- |
+| [**jax-ml/jax**](https://github.com/jax-ml/jax/pull/40025) | Fixed `jnp.histogram` raising on an empty input array |
+
+---
+
 ### 📊 GitHub Stats
 
 <!-- Rendered from this repo by .github/workflows/stat-cards.yml, not hotlinked. -->
