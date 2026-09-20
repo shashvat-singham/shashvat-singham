@@ -18,7 +18,7 @@
   <rect width="494" height="194" x="0.5" y="0.5" rx="6" fill="#1a1b27" stroke="#1a1b27"/>
   
     <g class="fade" transform="translate(82.5, 0)" style="animation-delay: 150ms">
-      <text class="streak-num" x="0" y="72" text-anchor="middle">1.6k</text>
+      <text class="streak-num" x="0" y="72" text-anchor="middle">1.7k</text>
       <text class="streak-label" x="0" y="100" text-anchor="middle">Total Contributions</text>
       <text class="streak-sub" x="0" y="122" text-anchor="middle">All time</text>
     </g>
